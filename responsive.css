@@ -1,0 +1,95 @@
+@media(max-width: 900px){
+    .card{
+        display: block;
+    }
+
+    .main-header h1{
+        font-size: 4rem;
+    }
+
+    .main-header p{
+        font-size: 1.2rem;
+    }
+
+    .close-btn{
+        font-size: 3rem;
+    
+    }
+}
+
+
+
+@media(max-width: 700px){
+    .popup-content{
+        width: 85vw;
+    }
+
+    .popup-content h3{
+        font-size: 2rem;
+    }
+
+    .popup-content p{
+        font-size: 1.6rem;
+    }
+}
+
+
+
+@media(max-width: 600px){
+    .footer h3{
+        font-size: 2rem;
+    }
+
+    .footer__box input{
+        width: 320px;
+        margin: 2rem auto;
+    }
+
+    .footer__box select{
+        width: 320px;
+        margin: 2rem auto;
+    }
+
+    .footer__box button{
+        width: 320px;
+        margin: 2rem auto;
+    }
+
+}
+@media(max-width: 500px){
+    .card h3{
+        font-size: 2rem;
+       
+    }
+
+    .card p{
+        font-size: 1.3rem;
+       
+    }
+
+    .btn:visited, .btn:link {
+        background-color: #02BF00;
+        padding: 1.3rem 3rem;
+        font-size: 1.5rem;
+        color: #fff;
+    }
+}
+
+    @media(max-width: 280px){
+    .footer__box input{
+        width: 250px;
+    }
+
+    .footer__box select{
+        width: 250px;
+    }
+
+    .footer__box button{
+        width: 250px;
+    }
+
+    .footer h3{
+        font-size: 1.6rem;
+    }
+
+}
